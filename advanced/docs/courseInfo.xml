@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+<COURSE>
+    <UNIT>H48W35</UNIT>
+    <TITLE>HND Software Development</TITLE>
+    <CREDIT>650</CREDIT>
+</COURSE>
+<COURSE>
+    <UNIT>H48W36</UNIT>
+    <TITLE>HND Networking</TITLE>
+    <CREDIT>640</CREDIT>
+</COURSE>
+<COURSE>
+    <UNIT>H48W37</UNIT>
+    <TITLE>HND Technical Support</TITLE>
+    <CREDIT>630</CREDIT>
+</COURSE>
+</CATALOG>
